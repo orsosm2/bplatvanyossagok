@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BPlatvanyossagok", "BPlatvanyossagok\BPlatvanyossagok.csproj", "{63860E36-DAEF-4F1E-9DCD-041F785FF4CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BPlatvanyossagok.UzletiLogika", "BPlatvanyossagok.UzletiLogika\BPlatvanyossagok.UzletiLogika.csproj", "{6C24556D-5DDD-45C1-A0A6-FA71098928FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63860E36-DAEF-4F1E-9DCD-041F785FF4CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63860E36-DAEF-4F1E-9DCD-041F785FF4CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63860E36-DAEF-4F1E-9DCD-041F785FF4CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63860E36-DAEF-4F1E-9DCD-041F785FF4CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C24556D-5DDD-45C1-A0A6-FA71098928FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C24556D-5DDD-45C1-A0A6-FA71098928FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C24556D-5DDD-45C1-A0A6-FA71098928FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C24556D-5DDD-45C1-A0A6-FA71098928FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE846523-3E41-4491-B806-692CE9B83589}
+	EndGlobalSection
+EndGlobal

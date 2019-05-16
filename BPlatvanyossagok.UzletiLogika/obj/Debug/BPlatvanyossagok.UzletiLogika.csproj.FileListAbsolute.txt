@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\BPlatvanyossagok\BPlatvanyossagok.UzletiLogika\obj\Debug\BPlatvanyossagok.UzletiLogika.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\BPlatvanyossagok\BPlatvanyossagok.UzletiLogika\obj\Debug\BPlatvanyossagok.UzletiLogika.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\BPlatvanyossagok\BPlatvanyossagok.UzletiLogika\bin\Debug\BPlatvanyossagok.UzletiLogika.dll.config
+C:\Users\admin\source\repos\BPlatvanyossagok\BPlatvanyossagok.UzletiLogika\bin\Debug\BPlatvanyossagok.UzletiLogika.dll
+C:\Users\admin\source\repos\BPlatvanyossagok\BPlatvanyossagok.UzletiLogika\bin\Debug\BPlatvanyossagok.UzletiLogika.pdb
+C:\Users\admin\source\repos\BPlatvanyossagok\BPlatvanyossagok.UzletiLogika\obj\Debug\BPlatvanyossagok.UzletiLogika.dll
+C:\Users\admin\source\repos\BPlatvanyossagok\BPlatvanyossagok.UzletiLogika\obj\Debug\BPlatvanyossagok.UzletiLogika.pdb

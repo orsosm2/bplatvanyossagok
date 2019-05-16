@@ -1,0 +1,2 @@
+C:\Users\admin\source\repos\BPlatvanyossagok\BPlatvanyossagok.UzletiLogika\obj\Release\BPlatvanyossagok.UzletiLogika.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\BPlatvanyossagok\BPlatvanyossagok.UzletiLogika\obj\Release\BPlatvanyossagok.UzletiLogika.csproj.CoreCompileInputs.cache
