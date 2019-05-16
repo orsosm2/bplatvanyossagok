@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\BPlatvanyossagok\BPlatvanyossagok\obj\Debug\BPlatvanyossagok.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\BPlatvanyossagok\BPlatvanyossagok\obj\Debug\BPlatvanyossagok.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\BPlatvanyossagok\BPlatvanyossagok\bin\Debug\BPlatvanyossagok.exe.config
+C:\Users\admin\source\repos\BPlatvanyossagok\BPlatvanyossagok\bin\Debug\BPlatvanyossagok.exe
+C:\Users\admin\source\repos\BPlatvanyossagok\BPlatvanyossagok\bin\Debug\BPlatvanyossagok.pdb
+C:\Users\admin\source\repos\BPlatvanyossagok\BPlatvanyossagok\bin\Debug\BPlatvanyossagok.exe.CodeAnalysisLog.xml
+C:\Users\admin\source\repos\BPlatvanyossagok\BPlatvanyossagok\bin\Debug\BPlatvanyossagok.exe.lastcodeanalysissucceeded
+C:\Users\admin\source\repos\BPlatvanyossagok\BPlatvanyossagok\bin\Debug\BPlatvanyossagok.UzletiLogika.dll
+C:\Users\admin\source\repos\BPlatvanyossagok\BPlatvanyossagok\bin\Debug\BPlatvanyossagok.UzletiLogika.pdb
+C:\Users\admin\source\repos\BPlatvanyossagok\BPlatvanyossagok\bin\Debug\BPlatvanyossagok.UzletiLogika.dll.config
+C:\Users\admin\source\repos\BPlatvanyossagok\BPlatvanyossagok\obj\Debug\BPlatvanyossagok.csproj.CopyComplete
+C:\Users\admin\source\repos\BPlatvanyossagok\BPlatvanyossagok\obj\Debug\BPlatvanyossagok.exe
+C:\Users\admin\source\repos\BPlatvanyossagok\BPlatvanyossagok\obj\Debug\BPlatvanyossagok.pdb
